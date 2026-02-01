@@ -16,8 +16,11 @@
             <mxPoint x="365" y="295" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FZjrycuTJvRu29njymej-3" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="438" y="339" width="60" height="30" as="geometry" />
+        <mxCell id="FZjrycuTJvRu29njymej-3" value="Model Construction" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="245" y="241" width="128" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="FZjrycuTJvRu29njymej-4" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="443" y="304" width="50" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
