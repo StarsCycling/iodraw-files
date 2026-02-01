@@ -83,7 +83,7 @@
         <mxCell id="SbjBko7orpaJFGs2gQHm-41" value="VRS" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;aspect=fixed;strokeColor=#7eb4ad;fontColor=#2f4858;fillColor=#A8DAC3;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="574" y="541" width="113" height="113" as="geometry" />
         </mxCell>
-        <mxCell id="SbjBko7orpaJFGs2gQHm-42" value="ACF Analysis" style="text;strokeColor=none;align=center;fillColor=none;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#65C5C4;spacing=2;aspect=fixed;fontFamily=Comic Sans MS;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="SbjBko7orpaJFGs2gQHm-42" value="ACF Analysis" style="text;strokeColor=none;align=center;fillColor=none;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#65C5C4;spacing=2;aspect=fixed;fontFamily=Comic Sans MS;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="286.52" y="565" width="225" height="14.06" as="geometry" />
         </mxCell>
         <mxCell id="SbjBko7orpaJFGs2gQHm-43" value="ReLU activation function" style="text;strokeColor=none;align=center;fillColor=none;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#65C5C4;spacing=2;aspect=fixed;fontFamily=Comic Sans MS;fontSize=15;" vertex="1" parent="1">
@@ -96,7 +96,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SbjBko7orpaJFGs2gQHm-47" value="Computational Consistency" style="rounded=1;whiteSpace=wrap;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=#7eb4ad;fontColor=#2f4858;fillColor=#A8DAC3;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="575" y="367" width="106" height="72" as="geometry" />
+          <mxGeometry x="573" y="367" width="108" height="72" as="geometry" />
         </mxCell>
         <mxCell id="SbjBko7orpaJFGs2gQHm-48" value="2.Stratified Mixed Methods" style="strokeWidth=2;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;strokeColor=#7eb4ad;fontColor=#2f4858;fillColor=#A8DAC3;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="580.5" y="222" width="100" height="100" as="geometry" />
