@@ -90,7 +90,7 @@
           <mxGeometry x="466" y="568" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SbjBko7orpaJFGs2gQHm-42" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;Problem 1: Estimating Fan Votes&lt;/font&gt;&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#5C5C5C;spacing=2;aspect=fixed;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="298" y="395" width="480" height="30" as="geometry" />
+          <mxGeometry x="274" y="504" width="480" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
