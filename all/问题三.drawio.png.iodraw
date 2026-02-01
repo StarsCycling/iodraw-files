@@ -10,13 +10,13 @@
         <mxCell id="eAbicHijKdMSec6DrrEA-0" value="Multi-task Graph Attention Network&amp;nbsp;Model" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=none;fontColor=#2F4858;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="206" y="279.5" width="139" height="93" as="geometry" />
         </mxCell>
-        <mxCell id="eAbicHijKdMSec6DrrEA-1" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontColor=#2F4858;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="eAbicHijKdMSec6DrrEA-1" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontColor=#2F4858;fillColor=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="363" y="360" as="sourcePoint" />
             <mxPoint x="415" y="402" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eAbicHijKdMSec6DrrEA-2" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontColor=#2F4858;fillColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="eAbicHijKdMSec6DrrEA-2" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontColor=#2F4858;fillColor=#cbfbff;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="364" y="264" as="sourcePoint" />
             <mxPoint x="414" y="214" as="targetPoint" />
