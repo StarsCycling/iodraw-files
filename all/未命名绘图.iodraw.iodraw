@@ -143,8 +143,8 @@
             <mxPoint x="626.75" y="173" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SbjBko7orpaJFGs2gQHm-59" value="Data Preprocessing" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Times New Roman;fontSize=12;align=center;fillColor=#21C0A5;strokeColor=#006658;fontColor=default;labelBorderColor=none;textShadow=0;" vertex="1" parent="1">
-          <mxGeometry x="190" y="70" width="120" height="80" as="geometry" />
+        <mxCell id="SbjBko7orpaJFGs2gQHm-59" value="Uncertainty" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Times New Roman;fontSize=12;align=center;fillColor=#21C0A5;strokeColor=#006658;fontColor=default;labelBorderColor=none;textShadow=0;" vertex="1" parent="1">
+          <mxGeometry x="567" y="85" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
