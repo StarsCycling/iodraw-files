@@ -28,11 +28,6 @@
             <mxPoint x="220" y="180" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="17ea667e15c223fc-60" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Times New Roman;fontSize=12;strokeColor=#006658;fontColor=default;labelBorderColor=none;textShadow=0;" parent="1" target="17ea667e15c223fc-10" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="240" y="200" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="17ea667e15c223fc-39" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Times New Roman;fontSize=8;strokeColor=#006658;fontColor=default;labelBorderColor=none;textShadow=0;" parent="1" source="17ea667e15c223fc-4" target="17ea667e15c223fc-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -204,6 +199,9 @@
         </mxCell>
         <mxCell id="SbjBko7orpaJFGs2gQHm-15" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;Problem 1: Estimating Fan Votes&lt;/font&gt;&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#5C5C5C;spacing=2;aspect=fixed;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="310" y="17" width="480" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SbjBko7orpaJFGs2gQHm-16" value="Review 1&lt;div&gt;received&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter;whiteSpace=wrap;html=1;rounded=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Times New Roman;fontSize=12;align=center;fillColor=#21C0A5;strokeColor=#006658;fontColor=default;labelBorderColor=none;textShadow=0;" vertex="1" parent="1">
+          <mxGeometry x="106" y="210" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
