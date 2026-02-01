@@ -58,7 +58,7 @@
         <mxCell id="SbjBko7orpaJFGs2gQHm-31" value="GCN Layer 1" style="rounded=1;whiteSpace=wrap;strokeColor=none;fontColor=#2f4858;fillColor=#A8DAC3;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="175" y="474" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SbjBko7orpaJFGs2gQHm-32" value="GCN Layer 2" style="rounded=1;whiteSpace=wrap;strokeColor=#7eb4ad;fontColor=#2f4858;fillColor=#A8DAC3;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="SbjBko7orpaJFGs2gQHm-32" value="GCN Layer 2" style="rounded=1;whiteSpace=wrap;strokeColor=none;fontColor=#2f4858;fillColor=#A8DAC3;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="175" y="573" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SbjBko7orpaJFGs2gQHm-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Comic Sans MS;fontSize=15;strokeColor=#7eb4ad;fontColor=#2f4858;labelBorderColor=none;textShadow=0;verticalAlign=middle;" edge="1" parent="1">
