@@ -34,10 +34,10 @@
         <mxCell id="FZjrycuTJvRu29njymej-10" value="Dynamic Allocation of Value Points" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="646" y="356" width="189" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="FZjrycuTJvRu29njymej-11" value="Soft-Voting Effectiveness Rate" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="FZjrycuTJvRu29njymej-11" value="Individual Fitness Calculation" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="695" y="216.5" width="155" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="FZjrycuTJvRu29njymej-12" value="Soft-Voting Effectiveness Rate" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="FZjrycuTJvRu29njymej-12" value="Characteristic Gini coefficient" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="676" y="86" width="155" height="120" as="geometry" />
         </mxCell>
       </root>
