@@ -26,7 +26,7 @@
           <mxGeometry x="408" y="136" width="158" height="93" as="geometry" />
         </mxCell>
         <mxCell id="FZjrycuTJvRu29njymej-29" value="Dynamic Allocation of Value Points" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontColor=#2F4858;fillColor=#ffe7c5;strokeColor=none;fontSize=22;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="759" y="463" width="158" height="93" as="geometry" />
+          <mxGeometry x="636" y="266" width="158" height="93" as="geometry" />
         </mxCell>
         <mxCell id="FZjrycuTJvRu29njymej-30" value="Graph Structural Similarity&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontColor=#2F4858;fillColor=#ffe7c5;strokeColor=none;fontSize=22;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="408" y="263" width="158" height="93" as="geometry" />
@@ -38,7 +38,7 @@
           <mxGeometry x="636" y="136" width="158" height="93" as="geometry" />
         </mxCell>
         <mxCell id="FZjrycuTJvRu29njymej-33" value="Individual Fitness Calculation" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontColor=#2F4858;fillColor=#ffe7c5;strokeColor=none;fontSize=22;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="802" y="333" width="158" height="93" as="geometry" />
+          <mxGeometry x="636" y="394" width="158" height="93" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
