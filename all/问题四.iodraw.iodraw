@@ -26,7 +26,7 @@
           <mxGeometry x="423" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FZjrycuTJvRu29njymej-23" value="Soft-Voting Effectiveness Rate" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="285" y="564" width="120" height="60" as="geometry" />
+          <mxGeometry x="436" y="393" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FZjrycuTJvRu29njymej-24" value="Graph Structural Similarity&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="566" y="571" width="120" height="60" as="geometry" />
@@ -35,10 +35,10 @@
           <mxGeometry x="802" y="576" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FZjrycuTJvRu29njymej-26" value="Individual Fitness Calculation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="453" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="430" y="486" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FZjrycuTJvRu29njymej-27" value="Characteristic Gini coefficient" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="691" y="407" width="120" height="60" as="geometry" />
+          <mxGeometry x="434" y="280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
