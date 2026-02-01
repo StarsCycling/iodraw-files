@@ -74,7 +74,7 @@
             <mxPoint x="234" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SbjBko7orpaJFGs2gQHm-38" value="" style="shape=flexArrow;endArrow=classic;rounded=0;strokeColor=#7eb4ad;fontColor=#2f4858;fillColor=#A8DAC3;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=15;" edge="1" parent="1">
+        <mxCell id="SbjBko7orpaJFGs2gQHm-38" value="" style="shape=flexArrow;endArrow=classic;rounded=0;strokeColor=none;fontColor=#2f4858;fillColor=#A8DAC3;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=15;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="324" y="602.5" as="sourcePoint" />
             <mxPoint x="492" y="603" as="targetPoint" />
@@ -128,7 +128,7 @@
         <mxCell id="SbjBko7orpaJFGs2gQHm-59" value="Uncertainty" style="rounded=1;whiteSpace=wrap;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Comic Sans MS;fontSize=15;align=center;fillColor=#A8DAC3;strokeColor=none;fontColor=#2F4858;labelBorderColor=none;textShadow=0;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="567" y="85" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="SbjBko7orpaJFGs2gQHm-61" value="" style="endArrow=classic;rounded=0;strokeColor=#7eb4ad;fontColor=#2F4858;fillColor=#21C0A5;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=15;" edge="1" parent="1">
+        <mxCell id="SbjBko7orpaJFGs2gQHm-61" value="" style="endArrow=classic;rounded=0;strokeColor=#2F4858;fontColor=#2F4858;fillColor=#21C0A5;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=15;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="687" y="124" as="sourcePoint" />
             <mxPoint x="796" y="124" as="targetPoint" />
