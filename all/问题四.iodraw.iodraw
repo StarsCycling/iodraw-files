@@ -28,6 +28,9 @@
         <mxCell id="FZjrycuTJvRu29njymej-7" value="Group Classification" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="439" y="89" width="100" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="FZjrycuTJvRu29njymej-9" value="Soft-Voting Effectiveness Rate" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="500" y="396" width="135" height="96" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
