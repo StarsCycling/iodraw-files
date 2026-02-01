@@ -31,15 +31,6 @@
         <mxCell id="17ea667e15c223fc-8" value="Building a Dynamic Voting Network" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Times New Roman;fontSize=12;align=center;fillColor=#21C0A5;strokeColor=#006658;fontColor=default;labelBorderColor=none;textShadow=0;" parent="1" vertex="1">
           <mxGeometry x="178" y="347" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="17ea667e15c223fc-42" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Times New Roman;fontSize=8;strokeColor=#006658;fontColor=default;labelBorderColor=none;textShadow=0;" parent="1" target="17ea667e15c223fc-13" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="500" y="580" />
-              <mxPoint x="500" y="100" />
-            </Array>
-            <mxPoint x="450" y="580" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="17ea667e15c223fc-43" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Times New Roman;fontSize=8;strokeColor=#006658;fontColor=default;labelBorderColor=none;textShadow=0;" parent="1" source="17ea667e15c223fc-13" target="17ea667e15c223fc-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -183,6 +174,12 @@
             <mxPoint x="117" y="310" as="sourcePoint" />
             <mxPoint x="186" y="387" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="SbjBko7orpaJFGs2gQHm-27" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#006658;fontColor=#5C5C5C;fillColor=#21C0A5;" vertex="1" parent="1">
+          <mxGeometry x="426" y="429" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SbjBko7orpaJFGs2gQHm-28" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#006658;fontColor=#5C5C5C;fillColor=#21C0A5;" vertex="1" parent="1">
+          <mxGeometry x="426" y="429" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
