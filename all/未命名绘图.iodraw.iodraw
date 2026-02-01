@@ -49,7 +49,7 @@
         <mxCell id="vSJAUo3g1CZrdJO4WzAY-15" value="Ranking Method" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f6c6c5;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="350" y="193" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vSJAUo3g1CZrdJO4WzAY-16" value="#f6c6c5" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="vSJAUo3g1CZrdJO4WzAY-16" value="Judge Selection Method" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f6c6c5;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="350" y="448" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vSJAUo3g1CZrdJO4WzAY-17" value="Percentage Method" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f6c6c5;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -73,7 +73,7 @@
         <mxCell id="vSJAUo3g1CZrdJO4WzAY-37" value="Evaluating Judge Selection Methods" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="638" y="481" width="109" height="109" as="geometry" />
         </mxCell>
-        <mxCell id="vSJAUo3g1CZrdJO4WzAY-38" value="Comparative Method Consistency" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="vSJAUo3g1CZrdJO4WzAY-38" value="Comparative Method Consistency" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f6c6c5;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="638" y="94" width="109" height="109" as="geometry" />
         </mxCell>
         <mxCell id="vSJAUo3g1CZrdJO4WzAY-39" value="Analysis of Fan Voting Bias" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
