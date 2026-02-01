@@ -10,7 +10,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="17ea667e15c223fc-2" value="Data Preprocessing" style="rounded=1;whiteSpace=wrap;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Comic Sans MS;fontSize=15;align=center;fillColor=#A8DAC3;strokeColor=none;fontColor=#2f4858;labelBorderColor=none;textShadow=0;verticalAlign=middle;" parent="1" vertex="1">
+        <mxCell id="17ea667e15c223fc-2" value="Data Preprocessing" style="rounded=1;whiteSpace=wrap;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Comic Sans MS;fontSize=15;align=center;fillColor=#A8DAC3;strokeColor=none;fontColor=#2F4858;labelBorderColor=none;textShadow=0;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="180" y="60" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="17ea667e15c223fc-4" value="Numeric variable" style="shape=hexagon;perimeter=hexagonPerimeter;whiteSpace=wrap;rounded=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Comic Sans MS;fontSize=15;align=center;fillColor=#A8DAC3;strokeColor=none;fontColor=#2f4858;labelBorderColor=none;textShadow=0;verticalAlign=middle;" parent="1" vertex="1">
