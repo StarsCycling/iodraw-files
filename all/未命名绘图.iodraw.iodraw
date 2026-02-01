@@ -89,8 +89,8 @@
         <mxCell id="SbjBko7orpaJFGs2gQHm-41" value="VRS" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;aspect=fixed;strokeColor=#006658;fontColor=#000000;fillColor=#21C0A5;verticalAlign=middle;fontFamily=Georgia;" vertex="1" parent="1">
           <mxGeometry x="574" y="541" width="113" height="113" as="geometry" />
         </mxCell>
-        <mxCell id="SbjBko7orpaJFGs2gQHm-42" value="ACF Analysis" style="text;strokeColor=none;align=center;fillColor=none;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;spacing=2;aspect=fixed;fontFamily=Georgia;" vertex="1" parent="1">
-          <mxGeometry x="275" y="565" width="225" height="14.06" as="geometry" />
+        <mxCell id="SbjBko7orpaJFGs2gQHm-42" value="ACF Analysis" style="text;strokeColor=none;align=center;fillColor=none;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;spacing=2;aspect=fixed;fontFamily=Georgia;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="286.52" y="565" width="225" height="14.06" as="geometry" />
         </mxCell>
         <mxCell id="SbjBko7orpaJFGs2gQHm-43" value="ReLU activation function" style="text;strokeColor=none;align=center;fillColor=none;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;spacing=2;aspect=fixed;fontFamily=Georgia;" vertex="1" parent="1">
           <mxGeometry x="295" y="641" width="208.04" height="13" as="geometry" />
