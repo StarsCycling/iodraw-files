@@ -197,7 +197,7 @@
         <mxCell id="17ea667e15c223fc-27" value="Combine review X with others" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Comic Sans MS;fontSize=12;align=center;fillColor=#21C0A5;strokeColor=#006658;fontColor=default;labelBorderColor=none;textShadow=0;" parent="1" vertex="1">
           <mxGeometry x="540" y="660" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="SbjBko7orpaJFGs2gQHm-15" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;Problem 1: Estimating Fan Vote Counts&lt;/font&gt;&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#5C5C5C;" vertex="1" parent="1">
+        <mxCell id="SbjBko7orpaJFGs2gQHm-15" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;Problem 1: Estimating Fan Votes&lt;/font&gt;&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#5C5C5C;" vertex="1" parent="1">
           <mxGeometry x="435" y="22" width="483" height="30" as="geometry" />
         </mxCell>
       </root>
