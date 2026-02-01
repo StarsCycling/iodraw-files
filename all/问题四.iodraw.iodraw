@@ -29,13 +29,16 @@
           <mxGeometry x="266" y="457" width="155" height="120" as="geometry" />
         </mxCell>
         <mxCell id="FZjrycuTJvRu29njymej-10" value="Dynamic Allocation of Value Points" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="688" y="200.5" width="189" height="145" as="geometry" />
+          <mxGeometry x="592" y="223" width="208" height="145" as="geometry" />
         </mxCell>
         <mxCell id="FZjrycuTJvRu29njymej-11" value="Individual Fitness Calculation" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="688" y="379.5" width="155" height="120" as="geometry" />
+          <mxGeometry x="521" y="421" width="155" height="120" as="geometry" />
         </mxCell>
         <mxCell id="FZjrycuTJvRu29njymej-12" value="Characteristic Gini coefficient" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="481" y="103" width="155" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="FZjrycuTJvRu29njymej-14" value="" style="shape=requiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="463" y="344" width="10" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
