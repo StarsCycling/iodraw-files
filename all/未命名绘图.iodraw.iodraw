@@ -181,6 +181,13 @@
         <mxCell id="SbjBko7orpaJFGs2gQHm-32" value="&lt;font color=&quot;#000000&quot;&gt;GCN Layer 2&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#006658;fontColor=#5C5C5C;fillColor=#21C0A5;" vertex="1" parent="1">
           <mxGeometry x="175" y="573" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="SbjBko7orpaJFGs2gQHm-34" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Times New Roman;fontSize=8;strokeColor=#006658;fontColor=default;labelBorderColor=none;textShadow=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="237.5" y="427" as="sourcePoint" />
+            <mxPoint x="238" y="476" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
