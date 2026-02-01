@@ -178,7 +178,7 @@
         <mxCell id="SbjBko7orpaJFGs2gQHm-31" value="GCN Layer 1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#006658;fontColor=#5C5C5C;fillColor=#21C0A5;" vertex="1" parent="1">
           <mxGeometry x="175" y="474" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SbjBko7orpaJFGs2gQHm-32" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#006658;fontColor=#5C5C5C;fillColor=#21C0A5;" vertex="1" parent="1">
+        <mxCell id="SbjBko7orpaJFGs2gQHm-32" value="GCN Layer 2" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#006658;fontColor=#5C5C5C;fillColor=#21C0A5;" vertex="1" parent="1">
           <mxGeometry x="175" y="573" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
