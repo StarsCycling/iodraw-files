@@ -80,7 +80,7 @@
             <mxPoint x="492" y="603" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SbjBko7orpaJFGs2gQHm-41" value="VRS" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;aspect=fixed;strokeColor=#7eb4ad;fontColor=#FFFFFF;fillColor=#A8DAC3;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="SbjBko7orpaJFGs2gQHm-41" value="VRS" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;aspect=fixed;strokeColor=#7eb4ad;fontColor=#FFFFFF;fillColor=#A8DAC3;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=27;" vertex="1" parent="1">
           <mxGeometry x="574" y="541" width="113" height="113" as="geometry" />
         </mxCell>
         <mxCell id="SbjBko7orpaJFGs2gQHm-42" value="ACF Analysis" style="text;strokeColor=none;align=center;fillColor=none;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#65C5C4;spacing=2;aspect=fixed;fontFamily=Comic Sans MS;fontSize=25;" vertex="1" parent="1">
