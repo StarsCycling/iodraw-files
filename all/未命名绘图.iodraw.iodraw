@@ -48,8 +48,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="17ea667e15c223fc-8" value="Store Review 2" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Times New Roman;fontSize=12;align=center;fillColor=#21C0A5;strokeColor=#006658;fontColor=default;labelBorderColor=none;textShadow=0;" parent="1" vertex="1">
-          <mxGeometry x="300" y="340" width="120" height="80" as="geometry" />
+        <mxCell id="17ea667e15c223fc-8" value="Building a Dynamic Voting Network" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Times New Roman;fontSize=12;align=center;fillColor=#21C0A5;strokeColor=#006658;fontColor=default;labelBorderColor=none;textShadow=0;" parent="1" vertex="1">
+          <mxGeometry x="178" y="347" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="17ea667e15c223fc-40" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Times New Roman;fontSize=8;strokeColor=#006658;fontColor=default;labelBorderColor=none;textShadow=0;" parent="1" source="17ea667e15c223fc-10" target="17ea667e15c223fc-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
