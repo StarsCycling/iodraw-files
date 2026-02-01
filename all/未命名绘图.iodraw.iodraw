@@ -32,7 +32,7 @@
           <mxGeometry x="178" y="347" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SbjBko7orpaJFGs2gQHm-15" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;Problem 1: Estimating Fan Votes&lt;/font&gt;&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#5C5C5C;spacing=2;aspect=fixed;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="310" y="17" width="480" height="30" as="geometry" />
+          <mxGeometry x="260" y="14" width="480" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SbjBko7orpaJFGs2gQHm-16" value="Categorical variable" style="shape=hexagon;perimeter=hexagonPerimeter;whiteSpace=wrap;rounded=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Georgia;fontSize=12;align=center;fillColor=#21C0A5;strokeColor=#006658;fontColor=default;labelBorderColor=none;textShadow=0;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="180" y="234" width="120" height="80" as="geometry" />
@@ -92,7 +92,7 @@
         <mxCell id="SbjBko7orpaJFGs2gQHm-42" value="ACF Analysis" style="text;strokeColor=none;align=center;fillColor=none;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;spacing=2;aspect=fixed;fontFamily=Georgia;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="286.52" y="565" width="225" height="14.06" as="geometry" />
         </mxCell>
-        <mxCell id="SbjBko7orpaJFGs2gQHm-43" value="ReLU activation function" style="text;strokeColor=none;align=center;fillColor=none;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;spacing=2;aspect=fixed;fontFamily=Georgia;" vertex="1" parent="1">
+        <mxCell id="SbjBko7orpaJFGs2gQHm-43" value="ReLU activation function" style="text;strokeColor=none;align=center;fillColor=none;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;spacing=2;aspect=fixed;fontFamily=Georgia;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="295" y="641" width="208.04" height="13" as="geometry" />
         </mxCell>
         <mxCell id="SbjBko7orpaJFGs2gQHm-45" value="" style="shape=flexArrow;endArrow=classic;rounded=0;strokeColor=#006658;fontColor=#5C5C5C;fillColor=#21C0A5;verticalAlign=middle;fontFamily=Georgia;" edge="1" parent="1">
