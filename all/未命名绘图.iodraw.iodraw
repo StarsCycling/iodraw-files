@@ -10,9 +10,10 @@
         <mxCell id="17ea667e15c223fc-1" value="Reviewers are&amp;nbsp;&lt;div&gt;to&amp;nbsp;&lt;span&gt;be invited&lt;/span&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter;whiteSpace=wrap;html=1;rounded=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Times New Roman;fontSize=12;align=center;fillColor=#21C0A5;strokeColor=#006658;fontColor=default;labelBorderColor=none;textShadow=0;" parent="1" vertex="1">
           <mxGeometry x="30" y="60" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="17ea667e15c223fc-29" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Times New Roman;fontSize=8;strokeColor=#006658;fontColor=default;labelBorderColor=none;textShadow=0;" parent="1" source="17ea667e15c223fc-2" edge="1">
+        <mxCell id="17ea667e15c223fc-29" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Times New Roman;fontSize=8;strokeColor=#006658;fontColor=default;labelBorderColor=none;textShadow=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="17ea667e15c223fc-2" target="SbjBko7orpaJFGs2gQHm-16" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="240" y="160" as="targetPoint" />
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="17ea667e15c223fc-2" value="Invite reviewers" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Times New Roman;fontSize=12;align=center;fillColor=#21C0A5;strokeColor=#006658;fontColor=default;labelBorderColor=none;textShadow=0;" parent="1" vertex="1">
@@ -201,7 +202,7 @@
           <mxGeometry x="310" y="17" width="480" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SbjBko7orpaJFGs2gQHm-16" value="Review 1&lt;div&gt;received&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter;whiteSpace=wrap;html=1;rounded=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Times New Roman;fontSize=12;align=center;fillColor=#21C0A5;strokeColor=#006658;fontColor=default;labelBorderColor=none;textShadow=0;" vertex="1" parent="1">
-          <mxGeometry x="106" y="210" width="120" height="80" as="geometry" />
+          <mxGeometry x="180" y="227" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
