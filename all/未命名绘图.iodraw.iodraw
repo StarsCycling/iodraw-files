@@ -59,9 +59,9 @@
           <mxGeometry x="495" y="202" width="10" height="293" as="geometry" />
         </mxCell>
         <mxCell id="vSJAUo3g1CZrdJO4WzAY-25" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;fontSize=16;fontFamily=Comic Sans MS;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="505" y="338" width="90" height="8" as="geometry" />
+          <mxGeometry x="505" y="338" width="110" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="vSJAUo3g1CZrdJO4WzAY-31" value="&amp;nbsp;Solve problems" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontFamily=Comic Sans MS;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="vSJAUo3g1CZrdJO4WzAY-31" value="&amp;nbsp;Solve problems" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=23;fontFamily=Comic Sans MS;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="500" y="295" width="124" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vSJAUo3g1CZrdJO4WzAY-35" value="&lt;span style=&quot;color: rgb(47, 72, 88); font-size: 30px;&quot;&gt;Problem 2:&amp;nbsp;&lt;/span&gt;&lt;font color=&quot;#2f4858&quot; style=&quot;font-size: 30px;&quot;&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;Method Comparison&lt;/span&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;fontFamily=Comic Sans MS;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
