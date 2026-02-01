@@ -7,37 +7,37 @@
         <mxCell id="FZjrycuTJvRu29njymej-0" value="&lt;font color=&quot;#2f4858&quot;&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;Problem 4:&amp;nbsp;&lt;/span&gt;A fairer system&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;fontFamily=Comic Sans MS;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="228.5" y="8" width="543" height="81" as="geometry" />
         </mxCell>
-        <mxCell id="FZjrycuTJvRu29njymej-1" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;F-GADEVS&lt;/font&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=none;fontSize=16;fontFamily=Comic Sans MS;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="FZjrycuTJvRu29njymej-1" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;F-GADEVS&lt;/font&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=none;fontSize=16;fontFamily=Comic Sans MS;fontColor=#2F4858;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="70" y="223" width="170" height="138" as="geometry" />
         </mxCell>
-        <mxCell id="FZjrycuTJvRu29njymej-2" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontFamily=Comic Sans MS;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="FZjrycuTJvRu29njymej-2" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontFamily=Comic Sans MS;fontColor=#2F4858;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="254" y="295" as="sourcePoint" />
             <mxPoint x="365" y="295" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FZjrycuTJvRu29njymej-3" value="Model Construction" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="FZjrycuTJvRu29njymej-3" value="Model Construction" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontColor=#2F4858;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="245" y="241" width="128" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="FZjrycuTJvRu29njymej-15" value="" style="shape=requiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;rotation=-180;fontFamily=Comic Sans MS;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="FZjrycuTJvRu29njymej-15" value="" style="shape=requiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;rotation=-180;fontFamily=Comic Sans MS;fontColor=#2F4858;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="371" y="124" width="26" height="377" as="geometry" />
         </mxCell>
-        <mxCell id="FZjrycuTJvRu29njymej-22" value="Group Classification" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="FZjrycuTJvRu29njymej-22" value="Group Classification" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontColor=#2F4858;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="423" y="155" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FZjrycuTJvRu29njymej-23" value="Soft-Voting Effectiveness Rate" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="FZjrycuTJvRu29njymej-23" value="Soft-Voting Effectiveness Rate" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontColor=#2F4858;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="423" y="379" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FZjrycuTJvRu29njymej-24" value="Graph Structural Similarity&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="FZjrycuTJvRu29njymej-24" value="Graph Structural Similarity&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontColor=#2F4858;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="423" y="262" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FZjrycuTJvRu29njymej-25" value="Dynamic Allocation of Value Points" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="FZjrycuTJvRu29njymej-25" value="Dynamic Allocation of Value Points" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontColor=#2F4858;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="632" y="264" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FZjrycuTJvRu29njymej-26" value="Individual Fitness Calculation" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="FZjrycuTJvRu29njymej-26" value="Individual Fitness Calculation" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontColor=#2F4858;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="632" y="379" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FZjrycuTJvRu29njymej-27" value="Characteristic Gini coefficient" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="FZjrycuTJvRu29njymej-27" value="Characteristic Gini coefficient" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontColor=#2F4858;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="632" y="155" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
