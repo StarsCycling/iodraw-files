@@ -152,7 +152,7 @@
             <mxPoint x="796" y="124" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SbjBko7orpaJFGs2gQHm-62" value="Verification and Summary" style="rounded=1;whiteSpace=wrap;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Comic Sans MS;fontSize=12;align=center;fillColor=#A8DAC3;strokeColor=#7eb4ad;fontColor=#2f4858;labelBorderColor=none;textShadow=0;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="SbjBko7orpaJFGs2gQHm-62" value="Verification and Summary" style="rounded=1;whiteSpace=wrap;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Comic Sans MS;fontSize=12;align=center;fillColor=#65c5c4;strokeColor=#7eb4ad;fontColor=#2f4858;labelBorderColor=none;textShadow=0;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="803" y="88" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
