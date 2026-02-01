@@ -40,6 +40,24 @@
         <mxCell id="FZjrycuTJvRu29njymej-15" value="" style="shape=requiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;rotation=-180;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="371" y="124" width="26" height="459" as="geometry" />
         </mxCell>
+        <mxCell id="FZjrycuTJvRu29njymej-22" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="422.5" y="331" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FZjrycuTJvRu29njymej-23" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="285" y="564" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FZjrycuTJvRu29njymej-24" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="566" y="571" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FZjrycuTJvRu29njymej-25" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="802" y="576" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FZjrycuTJvRu29njymej-26" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="660" y="358" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FZjrycuTJvRu29njymej-27" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="690" y="397" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
