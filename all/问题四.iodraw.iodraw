@@ -29,13 +29,13 @@
           <mxGeometry x="423" y="425" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FZjrycuTJvRu29njymej-24" value="Graph Structural Similarity&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="423" y="245" width="120" height="60" as="geometry" />
+          <mxGeometry x="423" y="262" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FZjrycuTJvRu29njymej-25" value="Dynamic Allocation of Value Points" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="605" y="262" width="120" height="60" as="geometry" />
+          <mxGeometry x="632" y="247" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FZjrycuTJvRu29njymej-26" value="Individual Fitness Calculation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="661" y="413" width="120" height="60" as="geometry" />
+          <mxGeometry x="632" y="425" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FZjrycuTJvRu29njymej-27" value="Characteristic Gini coefficient" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="632" y="130" width="120" height="60" as="geometry" />
