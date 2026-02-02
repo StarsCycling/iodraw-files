@@ -79,8 +79,11 @@
         <mxCell id="RSB1yx4b2MqB8wT6ju1u-44" value="Ranking Method" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="928" y="631.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RSB1yx4b2MqB8wT6ju1u-48" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="960" y="670" width="120" height="60" as="geometry" />
+        <mxCell id="RSB1yx4b2MqB8wT6ju1u-48" value="Percentage Method" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="920" y="724" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RSB1yx4b2MqB8wT6ju1u-49" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="906" y="825" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
