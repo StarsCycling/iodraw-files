@@ -85,12 +85,6 @@
         <mxCell id="RSB1yx4b2MqB8wT6ju1u-51" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="753" y="622" width="50" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RSB1yx4b2MqB8wT6ju1u-58" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RSB1yx4b2MqB8wT6ju1u-10" target="RSB1yx4b2MqB8wT6ju1u-51">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="810" y="778" as="sourcePoint" />
-            <mxPoint x="860" y="728" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="RSB1yx4b2MqB8wT6ju1u-61" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RSB1yx4b2MqB8wT6ju1u-51" target="RSB1yx4b2MqB8wT6ju1u-44">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="810" y="778" as="sourcePoint" />
@@ -123,6 +117,36 @@
         </mxCell>
         <mxCell id="RSB1yx4b2MqB8wT6ju1u-67" value="&lt;span style=&quot;color: rgb(47, 72, 88); font-family: &amp;quot;Comic Sans MS&amp;quot;; font-size: 16px;&quot;&gt;Analysis of Professional Dancers&#39; Influence&lt;/span&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="276" y="828" width="169" height="103" as="geometry" />
+        </mxCell>
+        <mxCell id="RSB1yx4b2MqB8wT6ju1u-70" value="Ranking Method" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1420" y="391" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RSB1yx4b2MqB8wT6ju1u-71" value="Percentage Method" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1420" y="492" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RSB1yx4b2MqB8wT6ju1u-72" value="Judge Selection Method" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1412" y="558" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RSB1yx4b2MqB8wT6ju1u-73" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1231" y="402" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="RSB1yx4b2MqB8wT6ju1u-74" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="RSB1yx4b2MqB8wT6ju1u-73" target="RSB1yx4b2MqB8wT6ju1u-70" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1288" y="558" as="sourcePoint" />
+            <mxPoint x="1338" y="508" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RSB1yx4b2MqB8wT6ju1u-75" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.561;exitY=0.501;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="RSB1yx4b2MqB8wT6ju1u-73" target="RSB1yx4b2MqB8wT6ju1u-71" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1269" y="464" as="sourcePoint" />
+            <mxPoint x="1408" y="483" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RSB1yx4b2MqB8wT6ju1u-76" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="RSB1yx4b2MqB8wT6ju1u-73" target="RSB1yx4b2MqB8wT6ju1u-72" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1301" y="422" as="sourcePoint" />
+            <mxPoint x="1440" y="441" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
