@@ -14,7 +14,7 @@
           <mxGeometry x="234" y="774.5" width="543" height="81" as="geometry" />
         </mxCell>
         <mxCell id="RSB1yx4b2MqB8wT6ju1u-3" value="&lt;font color=&quot;#2f4858&quot;&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;Problem 4:&amp;nbsp;&lt;/span&gt;A fairer system&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;fontFamily=Comic Sans MS;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1070" y="655" width="543" height="81" as="geometry" />
+          <mxGeometry x="969" y="537" width="543" height="81" as="geometry" />
         </mxCell>
         <mxCell id="RSB1yx4b2MqB8wT6ju1u-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RSB1yx4b2MqB8wT6ju1u-7" target="RSB1yx4b2MqB8wT6ju1u-28">
           <mxGeometry relative="1" as="geometry" />
@@ -131,7 +131,7 @@
         <mxCell id="RSB1yx4b2MqB8wT6ju1u-66" value="&lt;span style=&quot;color: rgb(47, 72, 88); font-size: 16px;&quot;&gt;Feature Importance Calculation&lt;/span&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontFamily=Comic Sans MS;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="487" y="886" width="169" height="103" as="geometry" />
         </mxCell>
-        <mxCell id="RSB1yx4b2MqB8wT6ju1u-67" value="&lt;span style=&quot;color: rgb(47, 72, 88); font-size: 13px;&quot;&gt;Analysis of Professional Dancers&#39; Influence&lt;/span&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontFamily=Comic Sans MS;fontSize=13;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="RSB1yx4b2MqB8wT6ju1u-67" value="&lt;span style=&quot;color: rgb(47, 72, 88); font-size: 16px;&quot;&gt;Analysis of Professional Dancers&#39; Influence&lt;/span&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontFamily=Comic Sans MS;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="477.5" y="1035" width="169" height="103" as="geometry" />
         </mxCell>
         <mxCell id="RSB1yx4b2MqB8wT6ju1u-70" value="Ranking Method" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -150,26 +150,26 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RSB1yx4b2MqB8wT6ju1u-82" value="Weekly Participant Relationship Gzraph" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1241" y="788" width="120" height="60" as="geometry" />
+          <mxGeometry x="1090" y="698" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RSB1yx4b2MqB8wT6ju1u-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RSB1yx4b2MqB8wT6ju1u-83" target="RSB1yx4b2MqB8wT6ju1u-101">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RSB1yx4b2MqB8wT6ju1u-83" value="VVR" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontFamily=Comic Sans MS;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1448" y="763" width="100" height="60" as="geometry" />
+          <mxGeometry x="1297" y="673" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RSB1yx4b2MqB8wT6ju1u-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RSB1yx4b2MqB8wT6ju1u-85" target="RSB1yx4b2MqB8wT6ju1u-89">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RSB1yx4b2MqB8wT6ju1u-85" value="Characteristic Gini coefficient" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontFamily=Comic Sans MS;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1433" y="914" width="100" height="60" as="geometry" />
+          <mxGeometry x="1282" y="824" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RSB1yx4b2MqB8wT6ju1u-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RSB1yx4b2MqB8wT6ju1u-89" target="RSB1yx4b2MqB8wT6ju1u-82">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1673" y="1023" />
-              <mxPoint x="1119" y="1023" />
-              <mxPoint x="1119" y="818" />
+              <mxPoint x="1522" y="933" />
+              <mxPoint x="968" y="933" />
+              <mxPoint x="968" y="728" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -177,25 +177,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RSB1yx4b2MqB8wT6ju1u-89" value="Dynamic Weighting" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontFamily=Comic Sans MS;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1622.9952497209824" y="943" width="100" height="60" as="geometry" />
+          <mxGeometry x="1471.9952497209824" y="853" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RSB1yx4b2MqB8wT6ju1u-91" value="Individual fitness" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontFamily=Comic Sans MS;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1783" y="954" width="100" height="60" as="geometry" />
+          <mxGeometry x="1632" y="864" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RSB1yx4b2MqB8wT6ju1u-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RSB1yx4b2MqB8wT6ju1u-93" target="RSB1yx4b2MqB8wT6ju1u-82">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RSB1yx4b2MqB8wT6ju1u-93" value="Initial Parameters and Weights" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontFamily=Comic Sans MS;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1013" y="1093" width="100" height="60" as="geometry" />
+          <mxGeometry x="862" y="1003" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RSB1yx4b2MqB8wT6ju1u-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RSB1yx4b2MqB8wT6ju1u-101" target="RSB1yx4b2MqB8wT6ju1u-89">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RSB1yx4b2MqB8wT6ju1u-101" value="CVVR" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontFamily=Comic Sans MS;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1650" y="763" width="100" height="60" as="geometry" />
+          <mxGeometry x="1499" y="673" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RSB1yx4b2MqB8wT6ju1u-103" value="Every ∆T week" style="text;whiteSpace=wrap;fontFamily=Comic Sans MS;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1547.995623372396" y="760.9955216471355" width="108" height="36" as="geometry" />
+          <mxGeometry x="1396.995623372396" y="670.9955216471355" width="108" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
