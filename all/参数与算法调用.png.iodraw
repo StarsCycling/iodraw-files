@@ -113,7 +113,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RSB1yx4b2MqB8wT6ju1u-28" value="Trio Loss Fine-Tuning" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontSize=15;fillColor=#A8DAC3;strokeColor=none;fontColor=#2F4858;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="624" y="256" width="120" height="60" as="geometry" />
+          <mxGeometry x="608" y="256" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RSB1yx4b2MqB8wT6ju1u-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Comic Sans MS;fontSize=15;fontColor=#2F4858;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RSB1yx4b2MqB8wT6ju1u-7" target="RSB1yx4b2MqB8wT6ju1u-7">
           <mxGeometry relative="1" as="geometry" />
@@ -212,7 +212,7 @@
           <mxGeometry x="1772.995623372396" y="322.99552164713555" width="108" height="36" as="geometry" />
         </mxCell>
         <mxCell id="RSB1yx4b2MqB8wT6ju1u-158" value="KA-VR" style="text;whiteSpace=wrap;html=1;fontSize=22;fontColor=#2F4858;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="753" y="250" width="97" height="36" as="geometry" />
+          <mxGeometry x="749" y="250" width="97" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
