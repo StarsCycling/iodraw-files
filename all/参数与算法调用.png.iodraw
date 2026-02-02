@@ -150,9 +150,6 @@
         <mxCell id="RSB1yx4b2MqB8wT6ju1u-72" value="Judge Selection Method" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="583" y="664.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RSB1yx4b2MqB8wT6ju1u-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontSize=15;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RSB1yx4b2MqB8wT6ju1u-82" target="RSB1yx4b2MqB8wT6ju1u-83">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="RSB1yx4b2MqB8wT6ju1u-82" value="Weekly Participant Relationship Gzraph" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1473" y="412" width="120" height="90" as="geometry" />
         </mxCell>
@@ -160,7 +157,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RSB1yx4b2MqB8wT6ju1u-83" value="VVR" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontFamily=Comic Sans MS;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1629" y="329" width="120" height="80" as="geometry" />
+          <mxGeometry x="1645" y="329" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RSB1yx4b2MqB8wT6ju1u-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontSize=15;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RSB1yx4b2MqB8wT6ju1u-85" target="RSB1yx4b2MqB8wT6ju1u-89">
           <mxGeometry relative="1" as="geometry" />
@@ -193,7 +190,7 @@
           <mxGeometry x="1876" y="329" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RSB1yx4b2MqB8wT6ju1u-103" value="Every ∆T week" style="text;whiteSpace=wrap;fontFamily=Comic Sans MS;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1752.995623372396" y="324.99552164713555" width="108" height="36" as="geometry" />
+          <mxGeometry x="1772.995623372396" y="322.99552164713555" width="108" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
