@@ -13,7 +13,7 @@
         <mxCell id="RSB1yx4b2MqB8wT6ju1u-147" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="237" y="774" width="1118" height="395" as="geometry" />
         </mxCell>
-        <mxCell id="RSB1yx4b2MqB8wT6ju1u-141" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="RSB1yx4b2MqB8wT6ju1u-141" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#FFE9E8;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="238" y="412" width="1117" height="362" as="geometry" />
         </mxCell>
         <mxCell id="RSB1yx4b2MqB8wT6ju1u-0" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Problem 1: Estimating Fan Votes&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;spacing=2;aspect=fixed;fontFamily=Comic Sans MS;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
