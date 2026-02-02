@@ -1,11 +1,11 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="837" dy="526" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3033" dy="1905" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="&lt;span style=&quot;color: rgb(76, 79, 105); font-family: &amp;quot;??&amp;quot;, &amp;quot;??&amp;quot;, ui-monospace, SFMono-Regular, &amp;quot;Cascadia Mono&amp;quot;, &amp;quot;Roboto Mono&amp;quot;, &amp;quot;DejaVu Sans Mono&amp;quot;, &amp;quot;Liberation Mono&amp;quot;, Menlo, Monaco, Consolas, &amp;quot;Source Code Pro&amp;quot;, monospace; font-size: 14px; text-align: start; caret-color: rgb(76, 79, 105); background-color: rgb(220, 224, 232);&quot;&gt;merged_features&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="160" y="80" width="120" height="40" as="geometry" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="&lt;span style=&quot;color: rgb(76, 79, 105); font-family: &amp;quot;??&amp;quot;, &amp;quot;??&amp;quot;, ui-monospace, SFMono-Regular, &amp;quot;Cascadia Mono&amp;quot;, &amp;quot;Roboto Mono&amp;quot;, &amp;quot;DejaVu Sans Mono&amp;quot;, &amp;quot;Liberation Mono&amp;quot;, Menlo, Monaco, Consolas, &amp;quot;Source Code Pro&amp;quot;, monospace; font-size: 14px; text-align: start; caret-color: rgb(76, 79, 105);&quot;&gt;merged_features&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=default;fillColor=default;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="424" y="153" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RSB1yx4b2MqB8wT6ju1u-0" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;Problem 1: Estimating Fan Votes&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;spacing=2;aspect=fixed;fontFamily=Comic Sans MS;fontSize=30;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="233" y="268" width="480" height="30" as="geometry" />
