@@ -25,6 +25,9 @@
         <mxCell id="RSB1yx4b2MqB8wT6ju1u-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RSB1yx4b2MqB8wT6ju1u-10" target="RSB1yx4b2MqB8wT6ju1u-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="RSB1yx4b2MqB8wT6ju1u-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RSB1yx4b2MqB8wT6ju1u-10" target="RSB1yx4b2MqB8wT6ju1u-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="RSB1yx4b2MqB8wT6ju1u-10" value="merged_features" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="544" y="629" width="160" height="109" as="geometry" />
         </mxCell>
@@ -108,6 +111,9 @@
         </mxCell>
         <mxCell id="RSB1yx4b2MqB8wT6ju1u-64" value="&lt;span style=&quot;font-family: &amp;quot;Comic Sans MS&amp;quot;; font-size: 16px;&quot;&gt;Multi-task Graph Attention Network&amp;nbsp;Model&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="518" y="819" width="161" height="91" as="geometry" />
+        </mxCell>
+        <mxCell id="RSB1yx4b2MqB8wT6ju1u-66" value="" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="673" y="833" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
