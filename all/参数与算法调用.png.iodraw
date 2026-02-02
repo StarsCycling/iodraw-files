@@ -74,7 +74,7 @@
           <mxGeometry x="1106" y="348" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RSB1yx4b2MqB8wT6ju1u-44" value="Ranking Method" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="942" y="625" width="120" height="60" as="geometry" />
+          <mxGeometry x="942" y="611" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RSB1yx4b2MqB8wT6ju1u-48" value="Percentage Method" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="942" y="712" width="120" height="60" as="geometry" />
@@ -91,10 +91,16 @@
             <mxPoint x="860" y="728" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RSB1yx4b2MqB8wT6ju1u-61" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RSB1yx4b2MqB8wT6ju1u-51">
+        <mxCell id="RSB1yx4b2MqB8wT6ju1u-61" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RSB1yx4b2MqB8wT6ju1u-51" target="RSB1yx4b2MqB8wT6ju1u-44">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="810" y="778" as="sourcePoint" />
             <mxPoint x="860" y="728" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RSB1yx4b2MqB8wT6ju1u-62" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="791" y="684" as="sourcePoint" />
+            <mxPoint x="930" y="703" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
