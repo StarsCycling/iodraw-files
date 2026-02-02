@@ -158,6 +158,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="RSB1yx4b2MqB8wT6ju1u-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RSB1yx4b2MqB8wT6ju1u-82" target="RSB1yx4b2MqB8wT6ju1u-85">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1616" y="457" />
+              <mxPoint x="1616" y="617" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="RSB1yx4b2MqB8wT6ju1u-82" value="Weekly Participant Relationship Gzraph" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1473" y="412" width="120" height="90" as="geometry" />
         </mxCell>
