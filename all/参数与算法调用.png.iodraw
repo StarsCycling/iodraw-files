@@ -19,8 +19,8 @@
         <mxCell id="RSB1yx4b2MqB8wT6ju1u-3" value="&lt;font color=&quot;#2f4858&quot;&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;Problem 4:&amp;nbsp;&lt;/span&gt;A fairer system&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;fontFamily=Comic Sans MS;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1256" y="799" width="543" height="81" as="geometry" />
         </mxCell>
-        <mxCell id="RSB1yx4b2MqB8wT6ju1u-5" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="576" y="369" width="120" height="80" as="geometry" />
+        <mxCell id="RSB1yx4b2MqB8wT6ju1u-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="576" y="379" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
