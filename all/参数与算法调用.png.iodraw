@@ -11,7 +11,7 @@
           <mxGeometry x="1278" y="277" width="543" height="81" as="geometry" />
         </mxCell>
         <mxCell id="RSB1yx4b2MqB8wT6ju1u-2" value="&lt;font color=&quot;#2f4858&quot;&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;Problem 3:&amp;nbsp;&lt;/span&gt;Feature Impact Analysis&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;fontFamily=Comic Sans MS;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="120" y="814" width="543" height="81" as="geometry" />
+          <mxGeometry x="224" y="947" width="543" height="81" as="geometry" />
         </mxCell>
         <mxCell id="RSB1yx4b2MqB8wT6ju1u-3" value="&lt;font color=&quot;#2f4858&quot;&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;Problem 4:&amp;nbsp;&lt;/span&gt;A fairer system&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;fontFamily=Comic Sans MS;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1256" y="799" width="543" height="81" as="geometry" />
@@ -105,6 +105,9 @@
             <mxPoint x="823" y="642" as="sourcePoint" />
             <mxPoint x="962" y="661" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="RSB1yx4b2MqB8wT6ju1u-64" value="&lt;span style=&quot;font-family: &amp;quot;Comic Sans MS&amp;quot;; font-size: 16px;&quot;&gt;Multi-task Graph Attention Network&amp;nbsp;Model&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="752" y="905" width="161" height="91" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
