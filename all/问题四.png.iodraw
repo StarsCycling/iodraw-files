@@ -50,7 +50,7 @@
           <mxGeometry x="390" y="198" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3IRe1R1YMQlzWullolSY-23" value="不同补偿策略对比实验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="383" y="342" width="120" height="54" as="geometry" />
+          <mxGeometry x="381" y="332" width="120" height="31" as="geometry" />
         </mxCell>
         <mxCell id="3IRe1R1YMQlzWullolSY-26" value="稀疏高斯过程推断信道质量，创建通信质量热力图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="954" y="464" width="120" height="60" as="geometry" />
