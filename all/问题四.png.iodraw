@@ -52,6 +52,12 @@
         <mxCell id="3IRe1R1YMQlzWullolSY-27" value="实机记录延迟与丢包率" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="950" y="339" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="3IRe1R1YMQlzWullolSY-34" value="搭建网络延迟与丢包环境" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="383" y="264" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3IRe1R1YMQlzWullolSY-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3IRe1R1YMQlzWullolSY-23" target="3IRe1R1YMQlzWullolSY-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
