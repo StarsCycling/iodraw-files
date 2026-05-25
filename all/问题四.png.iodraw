@@ -31,8 +31,8 @@
         <mxCell id="3IRe1R1YMQlzWullolSY-20" value="地图合并算法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="202" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3IRe1R1YMQlzWullolSY-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="389" y="189" width="120" height="60" as="geometry" />
+        <mxCell id="3IRe1R1YMQlzWullolSY-21" value="信息增益+匈牙利算法实现多机协同" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="202" y="508" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
