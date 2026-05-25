@@ -7,6 +7,12 @@
         <mxCell id="3IRe1R1YMQlzWullolSY-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3IRe1R1YMQlzWullolSY-0" target="3IRe1R1YMQlzWullolSY-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="3IRe1R1YMQlzWullolSY-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3IRe1R1YMQlzWullolSY-0" target="3IRe1R1YMQlzWullolSY-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3IRe1R1YMQlzWullolSY-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3IRe1R1YMQlzWullolSY-0" target="3IRe1R1YMQlzWullolSY-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3IRe1R1YMQlzWullolSY-0" value="项目技术路线图" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="389" y="91" width="120" height="60" as="geometry" />
         </mxCell>
@@ -17,7 +23,7 @@
           <mxGeometry x="611" y="189" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3IRe1R1YMQlzWullolSY-14" value="多机协同自主建图" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="205" y="189" width="120" height="60" as="geometry" />
+          <mxGeometry x="202" y="189" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
