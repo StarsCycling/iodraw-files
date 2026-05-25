@@ -4,15 +4,6 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="3IRe1R1YMQlzWullolSY-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3IRe1R1YMQlzWullolSY-0" target="3IRe1R1YMQlzWullolSY-14">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="3IRe1R1YMQlzWullolSY-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3IRe1R1YMQlzWullolSY-0" target="3IRe1R1YMQlzWullolSY-12">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="3IRe1R1YMQlzWullolSY-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3IRe1R1YMQlzWullolSY-0" target="3IRe1R1YMQlzWullolSY-13">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="3IRe1R1YMQlzWullolSY-0" value="项目技术路线图" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="10" y="323" width="120" height="60" as="geometry" />
         </mxCell>
@@ -23,7 +14,7 @@
           <mxGeometry x="576" y="195" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3IRe1R1YMQlzWullolSY-14" value="多机协同自主建图" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="202" y="195" width="120" height="60" as="geometry" />
+          <mxGeometry x="119" y="98" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3IRe1R1YMQlzWullolSY-19" value="边缘检测算法提取边界，自动导航" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="202" y="312" width="120" height="60" as="geometry" />
@@ -32,7 +23,7 @@
           <mxGeometry x="202" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3IRe1R1YMQlzWullolSY-21" value="信息增益+匈牙利算法实现多机协同" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="202" y="508" width="120" height="60" as="geometry" />
+          <mxGeometry x="243" y="522" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3IRe1R1YMQlzWullolSY-22" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;&quot; lang=&quot;EN-US&quot;&gt;tc qdisc netem&lt;/span&gt;工具实现网络延迟与丢包环境&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="389" y="312" width="120" height="60" as="geometry" />
