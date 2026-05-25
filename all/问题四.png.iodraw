@@ -16,6 +16,12 @@
         <mxCell id="3IRe1R1YMQlzWullolSY-0" value="项目技术路线图" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="10" y="270" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="3IRe1R1YMQlzWullolSY-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3IRe1R1YMQlzWullolSY-12" target="3IRe1R1YMQlzWullolSY-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3IRe1R1YMQlzWullolSY-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3IRe1R1YMQlzWullolSY-12" target="3IRe1R1YMQlzWullolSY-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3IRe1R1YMQlzWullolSY-12" value="边缘计算卸载与网络补偿" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="188" y="270" width="120" height="60" as="geometry" />
         </mxCell>
@@ -53,7 +59,7 @@
           <mxGeometry x="950" y="339" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3IRe1R1YMQlzWullolSY-34" value="搭建网络延迟与丢包环境" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="383" y="264" width="120" height="60" as="geometry" />
+          <mxGeometry x="381" y="249" width="120" height="33" as="geometry" />
         </mxCell>
         <mxCell id="3IRe1R1YMQlzWullolSY-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3IRe1R1YMQlzWullolSY-23" target="3IRe1R1YMQlzWullolSY-23">
           <mxGeometry relative="1" as="geometry" />
