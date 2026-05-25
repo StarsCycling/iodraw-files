@@ -17,7 +17,7 @@
           <mxGeometry x="389" y="91" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3IRe1R1YMQlzWullolSY-12" value="边缘计算卸载与网络补偿" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="389" y="189" width="120" height="60" as="geometry" />
+          <mxGeometry x="389" y="195" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3IRe1R1YMQlzWullolSY-13" value="通信质量地图构建" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="576" y="195" width="120" height="60" as="geometry" />
