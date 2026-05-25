@@ -28,6 +28,12 @@
         <mxCell id="3IRe1R1YMQlzWullolSY-19" value="边缘检测算法提取边界，自动导航" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="202" y="312" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="3IRe1R1YMQlzWullolSY-20" value="地图合并算法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="202" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3IRe1R1YMQlzWullolSY-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="389" y="189" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
