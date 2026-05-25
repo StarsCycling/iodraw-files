@@ -31,7 +31,7 @@
         <mxCell id="3IRe1R1YMQlzWullolSY-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3IRe1R1YMQlzWullolSY-13" target="3IRe1R1YMQlzWullolSY-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3IRe1R1YMQlzWullolSY-13" value="通信质量地图构建" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="3IRe1R1YMQlzWullolSY-13" value="通信质量地图构建" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="188" y="414" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3IRe1R1YMQlzWullolSY-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3IRe1R1YMQlzWullolSY-14" target="3IRe1R1YMQlzWullolSY-20">
@@ -60,16 +60,16 @@
         <mxCell id="3IRe1R1YMQlzWullolSY-21" value="信息增益+匈牙利算法实现多机协同" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="390" y="198" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3IRe1R1YMQlzWullolSY-23" value="不同补偿策略对比实验" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="3IRe1R1YMQlzWullolSY-23" value="不同补偿策略对比实验" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="390" y="323" width="120" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="3IRe1R1YMQlzWullolSY-26" value="稀疏高斯过程推断信道质量，创建通信质量热力图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="3IRe1R1YMQlzWullolSY-26" value="稀疏高斯过程推断信道质量，创建通信质量热力图" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="390" y="456" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3IRe1R1YMQlzWullolSY-27" value="实机记录延迟与丢包率" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="3IRe1R1YMQlzWullolSY-27" value="实机记录延迟与丢包率" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="390" y="398" width="120" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="3IRe1R1YMQlzWullolSY-34" value="搭建网络延迟与丢包环境" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="3IRe1R1YMQlzWullolSY-34" value="搭建网络延迟与丢包环境" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="390" y="270" width="120" height="36" as="geometry" />
         </mxCell>
         <mxCell id="3IRe1R1YMQlzWullolSY-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3IRe1R1YMQlzWullolSY-23" target="3IRe1R1YMQlzWullolSY-23">
