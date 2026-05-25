@@ -46,7 +46,7 @@
         <mxCell id="3IRe1R1YMQlzWullolSY-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="583" y="437" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3IRe1R1YMQlzWullolSY-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="3IRe1R1YMQlzWullolSY-27" value="实机记录延迟与丢包率" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="579" y="312" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
