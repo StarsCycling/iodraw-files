@@ -13,7 +13,7 @@
         <mxCell id="3IRe1R1YMQlzWullolSY-13" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="611" y="189" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3IRe1R1YMQlzWullolSY-14" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="3IRe1R1YMQlzWullolSY-14" value="多机协同自主建图" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="205" y="189" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
