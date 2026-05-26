@@ -13,9 +13,6 @@
         <mxCell id="cfEfn9Ry9NDYpWMIBnqY-2" value="随机游走策略" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="45" y="216" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cfEfn9Ry9NDYpWMIBnqY-4" value="&lt;span style=&quot;font-size:12.0pt;mso-bidi-font-size:&lt;br/&gt;15.0pt;font-family:仿宋_GB2312;mso-hansi-font-family:宋体;mso-bidi-font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;&lt;br/&gt;mso-bidi-language:AR-SA&quot; lang=&quot;EN-US&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;font-size:12.0pt;mso-bidi-font-size:&lt;br/&gt;15.0pt;font-family:仿宋_GB2312;mso-hansi-font-family:宋体;mso-bidi-font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;&lt;br/&gt;mso-bidi-language:AR-SA&quot;&gt;信息增益&lt;span lang=&quot;EN-US&quot;&gt;+&lt;/span&gt;匈牙利&lt;span lang=&quot;EN-US&quot;&gt;&quot;&lt;/span&gt;策略&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="348" y="312" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="cfEfn9Ry9NDYpWMIBnqY-5" value="无补偿" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="566" y="320" width="120" height="60" as="geometry" />
         </mxCell>
@@ -25,7 +22,7 @@
         <mxCell id="cfEfn9Ry9NDYpWMIBnqY-7" value="MLP学习式补偿" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="787" y="309" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cfEfn9Ry9NDYpWMIBnqY-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="cfEfn9Ry9NDYpWMIBnqY-8" value="贪心最近Frontier策略" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="255" y="164" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
