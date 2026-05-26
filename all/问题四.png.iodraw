@@ -23,10 +23,10 @@
           <mxGeometry x="787" y="309" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cfEfn9Ry9NDYpWMIBnqY-8" value="贪心最近Frontier策略" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="140" y="313" width="120" height="60" as="geometry" />
+          <mxGeometry x="155" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cfEfn9Ry9NDYpWMIBnqY-9" value="“信息增益+匈牙利”策略" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="260" y="253" width="120" height="60" as="geometry" />
+          <mxGeometry x="325" y="300" width="120" height="62" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
