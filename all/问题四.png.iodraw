@@ -26,18 +26,18 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cfEfn9Ry9NDYpWMIBnqY-1" value="实验二：补偿策略消融" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="314" y="296" width="120" height="60" as="geometry" />
+          <mxGeometry x="314" y="261" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cfEfn9Ry9NDYpWMIBnqY-5" value="无补偿" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="171" y="413" width="120" height="60" as="geometry" />
+          <mxGeometry x="171" y="378" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cfEfn9Ry9NDYpWMIBnqY-6" value="卡尔曼滤波" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="314" y="413" width="120" height="60" as="geometry" />
+          <mxGeometry x="314" y="378" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cfEfn9Ry9NDYpWMIBnqY-7" value="MLP学习式补偿" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="457" y="413" width="120" height="60" as="geometry" />
+          <mxGeometry x="457" y="378" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cfEfn9Ry9NDYpWMIBnqY-16" value="随机游走策略" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="cfEfn9Ry9NDYpWMIBnqY-16" value="随机游走策略" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="171" y="173" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cfEfn9Ry9NDYpWMIBnqY-17" value="贪心最近Frontier策略" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
