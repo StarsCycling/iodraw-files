@@ -23,13 +23,13 @@
           <mxGeometry x="171" y="181" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cfEfn9Ry9NDYpWMIBnqY-5" value="无补偿" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="484" y="301" width="120" height="60" as="geometry" />
+          <mxGeometry x="171" y="413" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cfEfn9Ry9NDYpWMIBnqY-6" value="卡尔曼滤波" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="647" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="314" y="413" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cfEfn9Ry9NDYpWMIBnqY-7" value="MLP学习式补偿" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="787" y="309" width="120" height="60" as="geometry" />
+          <mxGeometry x="484" y="413" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cfEfn9Ry9NDYpWMIBnqY-8" value="贪心最近Frontier策略" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="314" y="181" width="120" height="60" as="geometry" />
