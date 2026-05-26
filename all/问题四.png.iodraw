@@ -4,21 +4,6 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="cfEfn9Ry9NDYpWMIBnqY-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cfEfn9Ry9NDYpWMIBnqY-0">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="374" y="181" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cfEfn9Ry9NDYpWMIBnqY-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cfEfn9Ry9NDYpWMIBnqY-0">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="231" y="179" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cfEfn9Ry9NDYpWMIBnqY-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cfEfn9Ry9NDYpWMIBnqY-0">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="517" y="179" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="cfEfn9Ry9NDYpWMIBnqY-0" value="实验一：探索策略消融" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="314" y="55" width="120" height="60" as="geometry" />
         </mxCell>
@@ -44,7 +29,7 @@
           <mxGeometry x="457" y="413" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cfEfn9Ry9NDYpWMIBnqY-16" value="随机游走策略" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="117" y="157" width="120" height="60" as="geometry" />
+          <mxGeometry x="171" y="173" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cfEfn9Ry9NDYpWMIBnqY-17" value="贪心最近Frontier策略" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="671" y="97" width="120" height="60" as="geometry" />
